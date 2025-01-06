@@ -1,0 +1,19 @@
+Zyrafa:Antylopa,Bawol,Strus,Zebra,Zyrafa
+Zebra:Antylopa,Bawol,Strus,Zyrafa,Zebra
+Strus:Antylopa,Bawol,Zebra,Zyrafa,Strus
+Bawol:Antylopa,Strus,Zebra,Zyrafa,Bawol
+Antylopa:Strus,Zebra,Zyrafa,Bawol,Antylopa
+Lemur katta:Lemur rudy,Lemur wari,Lemur katta
+Lemur rudy:Lemur katta,Lemur wari,Lemur rudy
+Lemur wari:Lemur katta,Lemur rudy,Lemur wari
+Nosorozec:Nosorozec
+Gepard:Gepard
+Lew:Lew
+Hipopotam:Hipopotam
+Wielblad:Wielblad
+Likaon:Likaon
+Goryl:Goryl
+Zolw:Zolw
+Slon:Slon
+Orangutan:Orangutan
+Krokodyl:Krokodyl
