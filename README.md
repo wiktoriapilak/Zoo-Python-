@@ -1,2 +1,2 @@
-# Zoo-Python-
+# Zoo-Python
 Projekt z Pythona 
